@@ -6,5 +6,5 @@ The files include:
 - EEG-data preprocessing.
 - analysis of inter-brain synchrony in sensor space.
 - analysis of inter-brain synchrony in source space.
-- the code used for visualization and calculating mean values.
+- the code used for visualization and for calculating mean values.
 - preprocessing of movement data.
